@@ -1,7 +1,7 @@
 # Settings TOML
 
 `settings-toml` ist eine Java Bibliothek, die Einstellungen in einer `TOML`-Datei
-speichern und auch wieder auslesen kann. Diese Bibliothek wurde mit Java 17 getestet.
+speichern und auch wieder auslesen kann.
 
 ## Installation
 
@@ -11,7 +11,7 @@ speichern und auch wieder auslesen kann. Diese Bibliothek wurde mit Java 17 gete
 <dependency>
     <groupId>de.schipplock.settings</groupId>
     <artifactId>settings-toml</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
 </dependency>
 ```
 
